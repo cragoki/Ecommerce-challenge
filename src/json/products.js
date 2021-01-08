@@ -1,4 +1,4 @@
-const products = 
+const Products = 
 [
     {
         id: "1",
@@ -64,3 +64,5 @@ const products =
         color: "Black"
     },
 ]
+
+export default Products;
