@@ -10,6 +10,7 @@ function ProductBox(prop){
             <div className="productbox-description">
                 <p>{prop.details.description}</p>
             </div>
+            <div className="productbox-price">{"$" + prop.details.price}</div>
         </div>
     )
 }

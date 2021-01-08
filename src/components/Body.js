@@ -16,7 +16,7 @@ function Body(){
         />)
         
     return(
-        <div>{productList}</div>
+        <div className="product-wrapper">{productList}</div>
     );
 }
 

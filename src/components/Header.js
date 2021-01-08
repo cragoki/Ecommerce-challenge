@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header(){
     return(
-        <h1>This is a header</h1>
+        <header>filter controls to go here</header>
     );
 }
 
